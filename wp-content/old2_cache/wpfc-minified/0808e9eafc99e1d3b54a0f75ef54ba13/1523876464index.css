@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'raleway';
+font-style: normal;
+src: url(//officebeacon.lmb2hqc8qx.maxcdn-edge.com/wp-content/uploads/useanyfont/180305085732raleway.eot);
+src: local('raleway'), url(//officebeacon.lmb2hqc8qx.maxcdn-edge.com/wp-content/uploads/useanyfont/180305085732raleway.eot) format('embedded-opentype'), url(//officebeacon.lmb2hqc8qx.maxcdn-edge.com/wp-content/uploads/useanyfont/180305085732raleway.woff) format('woff');
+}
+.raleway{font-family: 'raleway' !important;}

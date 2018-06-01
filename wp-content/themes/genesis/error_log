@@ -1,0 +1,180 @@
+[05-Feb-2018 06:22:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[05-Feb-2018 06:22:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[05-Feb-2018 06:22:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[05-Feb-2018 06:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[05-Feb-2018 21:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[05-Feb-2018 21:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[05-Feb-2018 21:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[05-Feb-2018 21:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/page.php on line 15
+[08-Feb-2018 01:28:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Feb-2018 01:28:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Feb-2018 01:29:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Feb-2018 01:29:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Feb-2018 09:35:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:35:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:35:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:35:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:36:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php on line 14
+[08-Feb-2018 09:36:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php on line 14
+[08-Feb-2018 09:36:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php on line 14
+[08-Feb-2018 09:36:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/search.php on line 14
+[08-Feb-2018 09:37:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:37:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:37:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:38:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[08-Feb-2018 09:41:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Feb-2018 09:41:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Feb-2018 09:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Feb-2018 09:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[09-Feb-2018 07:15:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[09-Feb-2018 07:16:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[09-Feb-2018 07:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[09-Feb-2018 07:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[11-Feb-2018 19:12:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[11-Feb-2018 19:12:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[11-Feb-2018 19:12:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[11-Feb-2018 19:12:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis_structural_wrap() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/footer.php on line 14
+[02-Mar-2018 16:20:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[02-Mar-2018 16:20:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[26-Mar-2018 02:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function genesis() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/index.php on line 15
+[07-Apr-2018 07:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[07-Apr-2018 07:14:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Apr-2018 07:23:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[08-Apr-2018 07:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[09-Apr-2018 10:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15
+[09-Apr-2018 10:42:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function remove_action() in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/genesis/404.php on line 15

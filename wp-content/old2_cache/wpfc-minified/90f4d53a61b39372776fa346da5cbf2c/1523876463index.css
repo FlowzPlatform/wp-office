@@ -1,0 +1,22 @@
+.gra_inner_cont span.aft_ban_sub_text {
+font-family: "Arial";
+font-size: 20px;
+font-weight: 100;
+text-align: justify !important;
+}
+.rit_con span.aft_ban_sub_text {
+font-family: "Arial";
+font-size: 17px;
+font-weight: 100;
+text-align: justify !important;
+}
+.rit_con p {
+letter-spacing: 0;
+text-align: justify;
+}
+.gra_inner_cont span.aft_ban_text {
+font-size: 36px;
+}
+.gra_inner_cont h3 {
+margin-top: 25px;
+}

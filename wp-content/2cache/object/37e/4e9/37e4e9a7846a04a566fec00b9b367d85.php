@@ -1,0 +1,1 @@
+D©ÐZ<?php exit; ?>a:1:{s:7:"content";s:330:"a:11:{s:3:"key";s:40:"x8tOfJNkdg7cXPqoDhqo1izjMjyZ7vU0gnt3MYiB";s:10:"allow_pull";b:0;s:10:"allow_push";b:0;s:8:"profiles";a:0:{}s:7:"licence";s:0:"";s:10:"verify_ssl";b:0;s:17:"whitelist_plugins";a:0:{}s:11:"max_request";i:1048576;s:22:"delay_between_requests";i:0;s:18:"prog_tables_hidden";b:1;s:21:"pause_before_finalize";b:0;}";}

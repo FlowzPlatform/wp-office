@@ -1,0 +1,6 @@
+[19-Feb-2018 05:49:11 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/o5y7r6c0/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[19-Feb-2018 15:05:28 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/o5y7r6c0/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[19-Feb-2018 21:46:29 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/o5y7r6c0/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[20-Feb-2018 16:55:18 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/o5y7r6c0/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[26-Mar-2018 18:02:30 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/o5y7r6c0/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3
+[26-Mar-2018 18:12:06 UTC] PHP Fatal error:  Class 'Requests_Exception_Transport' not found in /home/o5y7r6c0/public_html/wp-includes/Requests/Exception/Transport/cURL.php on line 3

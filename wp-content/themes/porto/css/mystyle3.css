@@ -1,0 +1,23 @@
+#header .header-main {
+    background-color: #05406D !important;
+}
+
+.header-top {
+    background: #05406D !important;
+}
+
+#header.sticky-header .header-main {
+    background: #05406D !important;	
+}
+
+@media (max-width: 600px){
+	ul#menu-header-nav-1 a {
+    color: #fff !important;
+}
+}
+
+@media (min-width:900px){ 
+.countries_row .wpb_text_column {
+    margin-left: 59px;
+}
+}

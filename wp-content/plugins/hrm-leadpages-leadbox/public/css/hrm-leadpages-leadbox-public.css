@@ -1,0 +1,29 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+a.hrm-callout {
+	text-align: center;
+ 	padding: 20px !important;
+ 	margin-bottom: 16px;
+ 	display: block;
+ 	clear:both;
+ 	color: #333 !important;
+ 	text-decoration: none;
+ 	border-radius: 2px;
+ 	border: 1px solid rgba(10, 10, 10, 0.25) !important;
+ 	background-color: #ffff96;
+ 	box-shadow: none !important;
+}
+
+.hrm-callout:hover {
+	color: #667 !important;
+}
+.hrm-callout-blue {
+ 	background-color: #def0fc !important;
+}
+
+.hrm-callout-green {
+ 	background-color: #e1faea !important;
+}

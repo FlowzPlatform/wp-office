@@ -1,0 +1,96 @@
+†Å‘Z<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:495;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2018-02-14 13:12:23";s:13:"post_date_gmt";s:19:"2018-02-14 13:12:23";s:12:"post_content";s:18426:"[vc_row full_width="stretch_row" full_height="yes" equal_height="yes" content_placement="middle" css=".vc_custom_1520488192211{background-image: url(https://www.officebeacon.com/wp-content/uploads/2018/02/b11_01.png?id=583) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}"][vc_column][vc_column_text el_class="ban_l"]
+<p class="home_banner_text" style="text-align: center;"><span style="font-size: 46px; font-weight: 600;">Propel Your Business</span></p>
+[/vc_column_text][vc_column_text el_class="ban_l"]
+<div style="font-size: 46px; font-weight: 600;">With Phenomenal Outsourcing</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1518608389152{background-color: #22a1c4 !important;}"][vc_column el_class="pyp"][vc_column_text]
+<p class="home_banner_text" style="text-align: center;"><span style="font-size: 24px;">OUR PEOPLE POWER YOUR PROGRESS</span></p>
+[/vc_column_text][/vc_column][/vc_row][vc_row disable_element="yes"][vc_column el_class="unp_serv"][vc_column_text]
+<p class="home_service" style="text-align: center;"><span style="font-size: 30px; color: #999999;">A few of our unparalleled range of service</span></p>
+[/vc_column_text][vc_row_inner el_class="service_r"][vc_column_inner width="1/4"][vc_single_image image="502" img_size="full" alignment="center" onclick="custom_link" el_id="home_middle_image" link="https://www.officebeacon.com/lead-generation-representatives/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/lead-generation-representatives/"><strong><span class="service_head_text" style="font-size: 18px;">LEAD GENERATION</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/lead-generation-representatives/">Warm leads sent to your inbox</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="503" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/graphic-artists/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/graphic-artists/"><strong><span class="service_head_text" style="font-size: 18px;">GRAPHIC ARTISTS</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/graphic-artists/">From production art to high-end creative design</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="504" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/video-editors/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/video-editors/"><strong><span class="service_head_text" style="font-size: 18px;">VIDEO EDITING</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/video-editors/">Motion graphics, 3D, for any type of video project</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="505" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/accounting/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/accounting/"><strong><span class="service_head_text" style="font-size: 18px;">ACCOUNTING</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/accounting/">Bookkeeping, reconciliations journal entries and more</a></p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="service_r"][vc_column_inner width="1/4"][vc_single_image image="506" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/customer-service-representatives/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/customer-service-representatives/"><strong><span class="service_head_text" style="font-size: 18px;">CUSTOMER SERVICE</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/customer-service-representatives/">Inbound, outbound, virtual assistants</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="507" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/order-management/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/order-management/"><strong><span class="service_head_text" style="font-size: 18px;">ORDER MANAGEMENT</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/order-management/">Managing orders from receipt to fulfilment</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="508" img_size="full" alignment="center" onclick="custom_link" link="#"][vc_column_text]
+<p style="text-align: center;"><a href="#"><strong><span class="service_head_text" style="font-size: 18px;">EMAIL MANAGEMENT</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="#">Manage any of your inboxes</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="509" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/3d-design/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/3d-design/"><strong><span class="service_head_text" style="font-size: 18px;">3D DESIGN</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/3d-design/">For products, trophies, architecture &amp; more</a></p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row][vc_column el_class="unp_serv"][vc_column_text]
+<p class="home_service" style="text-align: center;"><span style="font-size: 30px; color: #999999;">A few of our unparalleled range of service</span></p>
+[/vc_column_text][vc_row_inner el_class="service_r"][vc_column_inner width="1/3"][vc_single_image image="502" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/lead-generation-representatives/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/lead-generation-representatives/"><strong><span class="service_head_text" style="font-size: 18px;">LEAD GENERATION</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/lead-generation-representatives/">Warm leads sent to your inbox</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="503" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/graphic-artist/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/graphic-artist/"><strong><span class="service_head_text" style="font-size: 18px;">GRAPHIC ARTISTS</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/graphic-artist/">From production art to high-end creative design</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="504" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/video-editors/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/video-editors/"><strong><span class="service_head_text" style="font-size: 18px;">VIDEO EDITING</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/video-editors/">Motion graphics, 3D, for any type of video project</a></p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="service_r"][vc_column_inner width="1/3"][vc_single_image image="505" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/accounting/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/accounting/"><strong><span class="service_head_text" style="font-size: 18px;">ACCOUNTING</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/accounting/">Bookkeeping, reconciliations journal entries and more</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="506" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/customer-service-representatives/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/customer-service-representatives/"><strong><span class="service_head_text" style="font-size: 18px;">CUSTOMER SERVICE</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/customer-service-representatives/">Inbound, outbound, virtual assistants</a></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="507" img_size="full" alignment="center" onclick="custom_link" link="https://www.officebeacon.com/order-management/"][vc_column_text]
+<p style="text-align: center;"><a href="https://www.officebeacon.com/order-management/"><strong><span class="service_head_text" style="font-size: 18px;">ORDER MANAGEMENT</span></strong></a></p>
+<p class="service_head_body" style="text-align: center;"><a href="https://www.officebeacon.com/order-management/">Managing orders from receipt to fulfilment</a></p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1518704905698{padding-bottom: 20px !important;background-color: #22a1c4 !important;}" el_class="pricing_row"][vc_column][vc_column_text css=".vc_custom_1518613065717{margin-top: 10px !important;}"]
+<p class="pricing_head" style="text-align: center;">Partner With Office Beacon And Turn Your Goals Into Profits</p>
+
+<div class="pricing">[supsystic-price-table id=8]</div>
+[/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" el_class="include_row"][vc_column][vc_single_image image="6666" alignment="center" el_class="business_pro_middle"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1518704050764{margin-top: 5px !important;background-image: url(https://www.officebeacon.com/wp-content/uploads/2018/02/shutterstock_346742468.jpg?id=521) !important;}" el_class="earth_row"][vc_column][vc_row_inner css=".vc_custom_1518703677305{margin-top: 30px !important;}" el_class="offer_row"][vc_column_inner width="1/2"][vc_column_text]
+<p style="text-align: center;"><span class="business_pro" style="color: #ffffff;">Our Business Process Outsourcing Plans</span>
+<span class="business_pro" style="color: #ffffff;"> Allow You to cut Your Costs by</span>
+<span class="discount" style="color: #ffffff;"> 50% or More!</span></p>
+[/vc_column_text][vc_btn title="TRY OUR SAVINGS CALCULATOR" style="flat" shape="square" color="info" align="center" el_class="business_pro_button opo_plans" link="url:https%3A%2F%2Fwww.officebeacon.com%2Froi-calculator%2F|||"][/vc_column_inner][vc_column_inner width="1/2"][vc_column_text]
+<p class="business_pro_right" style="text-align: center;"><span style="color: #ffffff;">HIRE THE BEST TALENT FROM INDIA &amp; THE PHILLIPINES</span>
+<span style="color: #ffffff;"> ON-DEMAND SERVICES 24/7</span></p>
+<p class="business_pro_right_head" style="text-align: center;"><span style="color: #ffffff;">A Few Of The Benefits You Stand To Experience</span></p>
+<p class="business_pro_right" style="text-align: center;"><span style="color: #ffffff;">EMPLOYEES WHO ONLY WORK FOR YOU SCALE</span>
+<span style="color: #ffffff;"> UP TO MATCH YOUR GROWTH</span>
+<span style="color: #ffffff;"> GUARANTEED SERVICE LEVELS</span>
+<span style="color: #ffffff;"> COVERAGE WHEN YOU NEED IT</span>
+<span style="color: #ffffff;"> DIRECT COMMUNICATION</span>
+<span style="color: #ffffff;"> FULL REPORTING &amp; ACCOUNTABILTY</span></p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row el_class="client_list"][vc_column][vc_column_text]
+<p class="client_list_head" style="text-align: center;">Just a Few of Our Satisfied Clients</p>
+[/vc_column_text][vc_row_inner el_class="clg1"][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="523" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="524" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="525" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="526" img_size="full" alignment="center"][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="clg2"][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="527" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="528" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="529" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="530" img_size="full" alignment="center"][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="clg3"][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="531" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="532" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner el_class="s1" width="1/4"][vc_single_image image="533" img_size="full" alignment="center"][/vc_column_inner][vc_column_inner width="1/4"][vc_single_image image="534" img_size="full" alignment="center"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row css=".vc_custom_1518706590676{margin-bottom: 30px !important;}" el_class="testimonial_rows"][vc_column][vc_column_text el_class="testimonial_heading"]
+<p style="text-align: center;">DON'T TAKE OUR WORD FOR IT</p>
+[/vc_column_text][/vc_column][/vc_row][vc_row css=".vc_custom_1518709303240{margin-bottom: 30px !important;}" el_class="test_rows1"][vc_column width="1/2" css=".vc_custom_1518706860411{background-color: #eeeeee !important;}"][vc_column_text]
+<div class="home_testimonial">[testimonials ids="308"]</div>
+[/vc_column_text][/vc_column][vc_column width="1/2" css=".vc_custom_1518706839319{background-color: #dfdfdf !important;}"][vc_column_text el_class="wcl_rit"][wonderplugin_carousel id="1"][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" equal_height="yes" content_placement="middle" css=".vc_custom_1518710652024{background-image: url(https://www.officebeacon.com/wp-content/uploads/2018/02/shutterstock_123263881.jpg?id=541) !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}" el_class="rocket_rows"][vc_column width="1/2"][vc_column_text el_class="rocket_text_left"]
+<p style="text-align: center;"><span class="demo_text" style="color: #ffffff;">REQUEST A DEMO TODAY</span></p>
+<p style="text-align: center;"><span class="demo_text_head" style="color: #ffffff;">Get Your Free Trial</span>
+<span class="demo_text" style="color: #ffffff;">Full Service and No Obligation</span></p>
+[/vc_column_text][vc_single_image image="5624" alignment="center" el_class="rocket_image"][/vc_column][vc_column width="1/2" css=".vc_custom_1518710949880{padding-top: 50px !important;padding-bottom: 50px !important;}" el_class="rocket_contact"][vc_column_text el_class="home_contact" css=".vc_custom_1523256956338{padding-top: 50px !important;padding-bottom: 50px !important;background-color: rgba(255,255,255,0.55) !important;*background-color: rgb(255,255,255) !important;border-radius: 5px !important;}"][captainform id="1165790"][/vc_column_text][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1523596950882{padding-top: 15px !important;background-color: #22a1c4 !important;}" el_class="counter_row remove_space"][vc_column][vc_row_inner][vc_column_inner width="1/3"][vc_single_image image="316" alignment="center"][vc_btn title="NUMBER OF EMPLOYEES" style="flat" shape="square" color="info" align="center"][vc_column_text]
+<p class="save_numbers" style="text-align: center;"><strong><span class="save_numbers" style="color: #ffffff; font-size: 34px;">2500+</span></strong></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="317" alignment="center"][vc_btn title="PRODUCTION CENTERS" style="flat" shape="square" color="info" align="center"][vc_column_text]
+<p class="save_numbers" style="text-align: center;"><strong><span class="save_numbers" style="font-size: 30px; color: #ffffff;">3</span></strong></p>
+[/vc_column_text][/vc_column_inner][vc_column_inner width="1/3"][vc_single_image image="318" alignment="center"][vc_btn title="NUMBER OF CLIENTS" style="flat" shape="square" color="info" align="center"][vc_column_text]
+<p class="save_numbers" style="text-align: center;"><strong><span class="save_numbers" style="font-size: 30px; color: #ffffff;">4500+</span></strong></p>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][vc_row_inner el_class="countries_row"][vc_column_inner][vc_column_text css_animation="none" css=".vc_custom_1521388389032{padding-bottom: 10px !important;}"]
+<h4 style="text-align: right;"><span class="foot1" style="color: #ffffff; float: left; width: 37%; line-height: 24px;">We Are Global</span></h4>
+<ul class="list-horizontal" style="float: left; width: 56%; text-align: center; display: inline-flex;">
+ 	<li><span class="foot2" style="color: #d6d2d2;">USA</span></li>
+ 	<li><span class="foot2" style="color: #d6d2d2;">Canada</span></li>
+ 	<li><span class="foot2" style="color: #d6d2d2;">Australasia</span></li>
+ 	<li><span class="foot2" style="color: #d6d2d2;">Philippines</span></li>
+ 	<li><span class="foot2" style="color: #d6d2d2;">India</span></li>
+</ul>
+[/vc_column_text][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row]";s:10:"post_title";s:8:"Homepage";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:8:"homepage";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2018-04-13 06:39:31";s:17:"post_modified_gmt";s:19:"2018-04-13 06:39:31";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:41:"https://www.officebeacon.com/?page_id=495";s:10:"menu_order";i:0;s:9:"post_type";s:4:"page";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

@@ -1,0 +1,7 @@
+@font-face {
+font-family: 'raleway';
+font-style: normal;
+src: url(//www.officebeacon.com/wp-content/uploads/useanyfont/180305085732raleway.eot);
+src: local('raleway'), url(//www.officebeacon.com/wp-content/uploads/useanyfont/180305085732raleway.eot) format('embedded-opentype'), url(//www.officebeacon.com/wp-content/uploads/useanyfont/180305085732raleway.woff) format('woff');
+}
+.raleway{font-family: 'raleway' !important;}

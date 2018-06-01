@@ -1,0 +1,1 @@
+M©ÐZ<?php exit; ?>a:1:{s:7:"content";a:5:{s:17:"_vc_post_settings";a:1:{i:0;s:30:"a:1:{s:10:"vc_grid_id";a:0:{}}";}s:10:"control_id";a:1:{i:0;s:10:"tt-font-12";}s:17:"control_selectors";a:1:{i:0;s:6:"a:0:{}";}s:19:"control_description";a:1:{i:0;s:0:"";}s:12:"force_styles";a:1:{i:0;s:0:"";}}}

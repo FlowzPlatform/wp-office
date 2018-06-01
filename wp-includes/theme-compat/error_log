@@ -1,0 +1,306 @@
+[19-Jun-2017 21:08:37 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Jun-2017 21:08:42 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Jun-2017 21:10:10 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Jun-2017 21:11:53 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Jun-2017 21:12:00 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Jun-2017 21:14:16 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home3/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[18-Feb-2018 08:38:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[18-Feb-2018 08:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[18-Feb-2018 08:39:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[18-Feb-2018 08:40:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[18-Feb-2018 08:40:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[18-Feb-2018 08:41:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[18-Feb-2018 08:41:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[18-Feb-2018 08:41:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[18-Feb-2018 08:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[18-Feb-2018 16:03:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[18-Feb-2018 16:04:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[18-Feb-2018 19:13:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[18-Feb-2018 19:16:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[18-Feb-2018 21:26:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[18-Feb-2018 21:49:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[19-Feb-2018 00:37:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[19-Feb-2018 00:57:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Feb-2018 01:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[19-Feb-2018 01:05:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[19-Feb-2018 01:39:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[19-Feb-2018 06:49:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Feb-2018 06:53:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[19-Feb-2018 06:57:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[19-Feb-2018 09:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[19-Feb-2018 17:48:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[19-Feb-2018 17:49:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[09-Mar-2018 01:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[09-Mar-2018 03:00:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[09-Mar-2018 04:06:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[09-Mar-2018 10:26:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[09-Mar-2018 11:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[09-Mar-2018 12:57:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[09-Mar-2018 14:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[09-Mar-2018 16:44:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[09-Mar-2018 17:31:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[09-Mar-2018 20:00:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[10-Mar-2018 00:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[10-Mar-2018 15:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[10-Mar-2018 17:55:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[10-Mar-2018 21:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[11-Mar-2018 06:33:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[11-Mar-2018 09:04:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[11-Mar-2018 10:20:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[11-Mar-2018 14:08:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[11-Mar-2018 19:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[12-Mar-2018 11:36:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[17-May-2018 12:49:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[17-May-2018 12:49:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[17-May-2018 12:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[17-May-2018 12:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[17-May-2018 12:50:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[17-May-2018 12:51:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[17-May-2018 20:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[17-May-2018 20:13:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[17-May-2018 20:13:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[17-May-2018 20:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[17-May-2018 20:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[17-May-2018 20:13:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[18-May-2018 04:13:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[18-May-2018 04:13:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[18-May-2018 04:13:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[18-May-2018 04:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[18-May-2018 04:14:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[18-May-2018 04:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[18-May-2018 08:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[18-May-2018 08:25:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/header.php on line 9
+[18-May-2018 08:25:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/comments.php on line 10
+[18-May-2018 08:26:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/footer.php on line 9
+[18-May-2018 11:28:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[18-May-2018 11:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[18-May-2018 14:24:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[18-May-2018 14:25:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[18-May-2018 22:19:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-May-2018 06:43:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-May-2018 10:04:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-includes/theme-compat/embed.php on line 13

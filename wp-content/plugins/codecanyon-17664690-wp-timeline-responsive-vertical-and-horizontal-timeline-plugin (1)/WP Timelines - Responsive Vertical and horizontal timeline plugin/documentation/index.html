@@ -1,0 +1,629 @@
+<!doctype html>  
+<!--[if IE 6 ]><html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]><html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]><html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<title>WP Timeline - Responsive Vertical and horizontal timeline plugin</title>
+	
+	<meta name="description" content="">
+	<meta name="author" content="ExThemes">
+	<meta name="copyright" content="ExThemes">
+	<meta name="generator" content="Documenter v2.0 http://rxa.li/documenter">
+	<meta name="date" content="2016-08-27T00:00:00+01:00">
+	
+	<link rel="stylesheet" href="assets/css/documenter_style.css" media="all">
+	<link rel="stylesheet" href="assets/js/google-code-prettify/prettify.css" media="screen">
+	<script src="assets/js/google-code-prettify/prettify.js"></script>
+
+	
+	
+	<script src="assets/js/jquery.js"></script>
+	
+	<script src="assets/js/jquery.scrollTo.js"></script>
+	<script src="assets/js/jquery.easing.js"></script>
+	
+	<script>document.createElement('section');var duration='500',easing='swing';</script>
+    <script>
+	jQuery(document).ready(function() {
+		jQuery('.copy_sc').on('click',function(){
+			var copyText = $(this).next();
+			copyText.select();
+			document.execCommand("Copy");
+			alert("Copied the text: " + copyText.value);
+		});
+	});
+    
+    </script>
+	<script src="assets/js/script.js"></script>
+	
+	<style>
+		html{background-color:#FFFFFF;color:#383838;}
+		::-moz-selection{background:#444444;color:#DDDDDD;}
+		::selection{background:#444444;color:#DDDDDD;}
+		#documenter_sidebar #documenter_logo{
+			font-size: 25px;
+			font-weight: bold;
+			text-align: center;
+			margin: 40px 0;
+			text-transform: uppercase;
+			color: #00BCD4;
+			text-decoration:none;
+			height: 40px;
+			min-height: 40px;
+			line-height: 40px;
+		}
+		a{color:#00BCD4;}
+		.btn {
+			border-radius:3px;
+		}
+		.btn-primary {
+			  background-image: -moz-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -ms-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -webkit-gradient(linear, 0 0, 0 0088CC%, from(#DDDDDD), to(#0044CC));
+			  background-image: -webkit-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: -o-linear-gradient(top, #0088CC, #0044CC);
+			  background-image: linear-gradient(top, #0088CC, #0044CC);
+			  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#0088CC', endColorstr='#0044CC', GradientType=0);
+			  border-color: #0044CC #0044CC #bfbfbf;
+			  color:#FFFFFF;
+		}
+		.btn-primary:hover,
+		.btn-primary:active,
+		.btn-primary.active,
+		.btn-primary.disabled,
+		.btn-primary[disabled] {
+		  border-color: #0088CC #0088CC #bfbfbf;
+		  background-color: #0044CC;
+		}
+		hr{border-top:1px solid #EBEBEB;border-bottom:1px solid #FFFFFF;}
+		#documenter_sidebar, #documenter_sidebar ul a{background-color:#DDDDDD;color:#222222;}
+		#documenter_sidebar ul a{-webkit-text-shadow:1px 1px 0px #EEEEEE;-moz-text-shadow:1px 1px 0px #EEEEEE;text-shadow:1px 1px 0px #EEEEEE;}
+		#documenter_sidebar ul{border-top:1px solid #AAAAAA;}
+		#documenter_sidebar ul a{border-top:1px solid #EEEEEE;border-bottom:1px solid #AAAAAA;color:#444444;}
+		#documenter_sidebar ul a:hover{background:#444444;color:#DDDDDD;border-top:1px solid #444444;}
+		#documenter_sidebar ul a.current{background:#00BCD4;color:#fff;border-top:1px solid #444444;}
+		#documenter_copyright{display:block !important;visibility:visible !important;}
+		img {
+			border: solid 1px #999;
+			padding: 5px;
+			margin-top: 5px;
+			margin-bottom: 10px;
+			max-width: 100%;
+		}
+		#documenter_sidebar ul a {
+			display: block;
+			border-bottom: 1px solid #f2f2f2;
+			padding: 10px 15px;
+			text-align: right;
+			text-transform:uppercase;
+		}
+		#documenter_sidebar ul,
+		#documenter_sidebar ul a:first-child{ border-top:0}
+		#documenter_sidebar ul li:last-child a{ border-bottom:0;}
+		#documenter_sidebar, #documenter_sidebar ul a {
+			background-color: #ffffff;
+			color: #e8e8e8;
+		}
+		#documenter_content p{ font-size:13px;}
+		#documenter_sidebar ul a {
+			color: #000;
+		}
+		.prettyprint{ white-space:pre-wrap;}
+	</style>
+	
+</head>
+<body class="documenter-project-itemname">
+	<div id="documenter_sidebar">
+		<a href="#documenter_cover" id="documenter_logo">WP Timeline</a>
+		<ul id="documenter_nav">
+			<li><a class="current" href="#first-know">First to know</a></li>
+				
+			<li><a href="#introduc" title="Introduction">Introduction</a></li>
+			<li><a href="#install-file" title="Installation">Installation</a></li>
+            <li><a href="#sample-data" title="Installation">Install Sample Data</a></li>
+			<li><a href="#create-timeline" title="Creating Timline">Creating Timline</a></li>
+            <li><a href="#create-media" title="Creating Timline media">Creating Timline with media</a></li>
+            <li><a href="#order-timeline" title="Order Timline">Order timeline by custom field</a></li>
+            <li><a href="#shortcode" title="Shortcode">Shortcode</a>
+            	<ul>
+                	<li><a href="#shortcode-timeline-list" title="JavaScript">Timeline listing</a></li>
+                    <li><a href="#shortcode-timeline-slider" title="JavaScript">Timeline slider</a></li>
+                    <li><a href="#shortcode-timeline-multi" title="JavaScript">Timeline Multi items</a></li>
+                </ul>
+            </li>
+			<li><a href="#usage" title="Usage">Usage</a></li>
+            <li><a href="#config" title="Configuration">Configuration</a></li>
+            <li><a href="#translation" title="Translation">Translation</a></li>
+			<li><a href="#sources_and_credits" title="Sources and Credits">Sources and Credits</a></li>
+
+		</ul>
+		<div id="documenter_copyright">Copyright ExThemes 2016<br>
+		</div>
+	</div>
+	<div id="documenter_content">
+	<section id="first-know">
+	<h1>WP Timeline</h1>
+	<h2>Responsive Vertical and horizontal timeline plugin</h2>
+	<div id="documenter_buttons">
+	</div>
+	<hr>
+	<ul>
+	<li>Created: 27/08/2016</li>
+	<li>Latest update: 27/08/2016</li>
+	<li>By: ExThemes</li>
+	
+	<li>Email: <a href="mailto:exthemes.net@gmail.com">exthemes.net@gmail.com</a></li>
+	</ul>
+	<p>Thank you for purchasing my plugin. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form <a href="http://codecanyon.net/user/ex-themes">here</a>. Thanks so much!</p>
+	</section>
+	
+	<section id="introduc">
+	<div class="page-header"><h3>Introduction</h3><hr class="notop"></div>
+<p>
+	WP Timeline is a Wordpress plugin that helps you create and show a beautiful timeline, history, stories easily. By this timeline plugin you can display any posttype and Display timeline anywhere via shortcodes.</p>
+<h5><strong>Features list</strong></h5>
+<ul>
+	<li>40+ Animations support</li>
+    <li>Fully responsive and mobile ready.</li>
+    <li>Unlimited Timeline anywhere.</li>
+    <li>Unlimited Timeline Color. You can set color for all or each timeline</li>
+    <li>Support category, tag, custom post type, custom taxonomy</li>
+    <li>Vertical and horizontal support</li>
+    <li>Classic and modern style support</li>
+    <li>Flat style include</li>
+    <li>Timeline with single column support</li>
+    <li>Beautiful Single timeline</li>
+    <li>Ajax load more post</li>
+    <li>History bar support</li>
+    <li>Timeline with icon support</li>
+    <li>Show media (video & audio) on timeline</li>
+    <li>Quick Edit and option to order timeline support</li>
+    <li>Unlimited customize with font, color</li>
+    <li>Visual Composer support</li>
+    <li>Supper easy configuration</li>
+    <li>And more …</li>
+</ul>
+</section>
+<section id="install-file">
+	<div class="page-header"><h3>Installation</h3><hr class="notop"></div>
+<h5>The Full Package includes these following files and folders:</h5>
+<ul>
+  <li><b>Documentation</b>&nbsp;folder - Contain this document</li>
+  <li><b>Installation Files</b>&nbsp;folder - Contain installable file plugin<br>
+  	<ul>
+      <li><b>wp-timeline.zip</b>&nbsp;folder - WordPress Plugin Installation file</li>
+    </ul>
+  </li>
+</ul>
+<h5><b>Install via Wordpress admin</b></h5>
+<ol>
+  <li>Login to WordPress Admin</li>
+  <li>In the left menu panel go to&nbsp;<b>Plugins &gt; Add New &gt; Upload</b>&nbsp;to install plugin</li>
+  <li>Click&nbsp;<b>Upload</b></li>
+  <li><b>Browse</b>&nbsp;your download package to select installation files</li>
+  <li>Click&nbsp;<b>Install Now</b>&nbsp;button</li>
+  <li>Once it's uploaded, click the&nbsp;<b>Activate</b>&nbsp;link</li>
+</ol>
+<h5><b>Install via FTP Account</b></h5>
+<ol>
+  <li>Use your FTP software to browse to&nbsp;<b>wp-content/plugins</b>&nbsp;folder to install plugin</li>
+  <li>Extract the installation files to their corresponding folders, for example&nbsp;<b><em>wp-timeline.zip</em></b>&nbsp;to&nbsp;<b>wp-timeline</b>&nbsp;and upload to server</li>
+  <li>Once it's uploaded, go to your WordPress Admin, browse to&nbsp;<b>Plugins &gt; Installed Plugins</b></li>
+  <li>Click the&nbsp;<b>Activate</b>&nbsp;link</li>
+</ol>
+<h5><b>Update</b></h5>
+<ol>
+  <li>Deactive "WP Timeline" plugin by going to Plugins > Deactive "WP Timeline" plugin</li>
+  <li>Delete older version by clicking on Delete link. Confirm to delete.</li>
+  <li>Update and re-install new version.</li>
+</ol>
+
+
+</section>
+
+
+<section id="sample-data">
+	<div class="page-header"><h3>Install Sample Data</h3><hr class="notop"></div>
+	<div>
+		To install sample data as seen on our demo page, following these steps</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>&nbsp;Make sure you have installed WP Timeline plugins</strong></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Step 1.</strong>&nbsp;Go to <b>Tools &gt; Import</b>, then click on <b>Wordpress</b></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Step 2.</strong>&nbsp;If it is not yet installed before, you have to install it. On the popup window, click on "Install Now"</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Step 3.</strong>&nbsp;After installed successfully, click on <b>Activate Plugin &amp; Run Importer</b></div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Step 4.</strong>&nbsp;Browse for FULL_DOWNLOAD_PACKET/installation/wp-timeline/sample-data/sample-data.xml (or download it <a href="https://www.dropbox.com/s/qkcy2rihciitkdh/sample-data.xml?dl=0">here</a>) and click <b>Upload File and Import</b>.</div>
+	<div>
+		&nbsp;</div>
+	<div>
+		<strong>Step 5.</strong>&nbsp;After uploaded, the confirmation page appears. Check the <b>Download and import file attachments</b> option and click <b>Submit</b>. <span style="color:red">If you have trouble with importing (it might breaks in the middle due to long execution time), try again with this option Unchecked!</span></div>
+	<div>
+		&nbsp;</div>
+	<div class="clear"><!-- --></div>
+	<div><strong>Step 6.</strong>&nbsp;OK, done!</div>
+    <hr>
+</section>
+<section id="create-timeline">
+    <div class="page-header"><h3>Creating Timeline</h3><hr class="notop"></div>
+    <p>1. Go To Wordpress Admin > Timeline > Add New Timeline</p>
+    <img src="assets/images/st0.png" alt="" style="max-width:100%"/>
+    <hr>
+    <p>2. Set a title, description, featured image and required field of the timeline </p>
+    <img src="assets/images/st1.png" alt="" style="max-width:1000px"/>
+    <hr>
+    <p>3. Date and info of timeline settings</p>
+    <img src="assets/images/st2.png" alt="" style="max-width:1000px"/>
+    <hr>
+    <p>4. Display</p>
+    <img src="assets/images/rs0.png" alt="" style="max-width:1000px"/>
+    <hr>
+    <img src="assets/images/rs1.png" alt="" style="max-width:1000px"/>
+    <hr>
+</section>
+
+<section id="create-media">
+    <div class="page-header"><h3>How to create Timeline with video or audio?</h3><hr class="notop"></div>
+    <p>1. Add youtube or soundcloud link to content of timeline, <strong>you could also use embed of any video or audio website</strong></p>
+    <img src="assets/images/link-video.png" alt="" style="max-width:100%"/>
+    <hr>
+    <p>2. To show video or audio in timeline, you just select Show media > yes </p>
+    <h5 style="color:red">If you dont use Visual Composer, you just add this parameter to timeline shortcode: show_media="1" </h5>
+    <img src="assets/images/show-media.png" alt="" style="max-width:100%"/>
+    <hr>
+</section>
+
+<section id="order-timeline">
+    <div class="page-header"><h3>Custom order Timeline</h3><hr class="notop"></div>
+    <p>1. Go To Wordpress Admin > Timeline > Add numerical order ( just type number )</p>
+    <img src="assets/images/order-custom.png" alt="" style="max-width:100%"/>
+    <hr>
+    <p>2. Set a timeline order by custom custom order </p>
+    <h5 style="color:red">If you dont use Visual Composer, you just add this parameter to timeline shortcode: order="ASC" orderby="meta_value_num" meta_key="wpex_order" </h5>
+    <img src="assets/images/vc-setorder.png" alt="" style="max-width:1000px"/>
+    <hr>
+</section>
+
+<section id="shortcode">
+    <div class="page-header"><h3>Shortcode</h3><hr class="notop"></div>
+    
+    <h5 id="shortcode-timeline-list"><b>Timeline listing</b></h5>
+    <p><i>Timeline listing is a shortcode for displaying timeline on listing with load more ajax.</i></p>
+    <textarea disabled>[wpex_timeline style="" alignment="" posttype="wp-timeline" count="" posts_per_page="" ids="" cat=""  tag="" taxonomy=""  order=""  orderby="" meta_key="" start_label="" end_label="" show_media="" lightbox="" feature_label="" animations="" class=""]
+    </textarea>
+    <p>
+    	<ul>
+        	<li>style - Select between style
+                <ul>
+                        <li>classic - Classic (style="classic")</li>
+                        <li>modern - Classic (style="modern")</li>
+                        <li>wide_img - Wide image (style="wide_img")<span style="color:red"> Only available in version 3.0 ++</span></li>
+                        <li>bg - Background (style="bg")<span style="color:red"> Only available in version 3.0 ++</span></li>
+                        <li>simple - Simple (style="simple")<span style="color:red"> Only available in version 3.0 ++</span></li>
+                        <li>clean - Clean (style="clean")<span style="color:red"> Only available in version 3.0 ++</span></li>
+                </ul>
+            </li>
+            <li>alignment - Select between Center (alignment="center") or Left (alignment="left")</li>
+            <li>posttype - Select post types, Ex: posttype="post" to show blog posts in timeline ( Defaults: wp-timeline)</li>
+        	<li>ids - List of IDs to query, separated by a comma</li>
+            <li>count - Total number of items to show. Default 9</li>
+            <li>posts_per_page - Number of items per page. Default 3 </li>
+            <li>cat - List of category ids (or slug), separated by a comma</li>
+            <li>tag - List of tag ids (or slug), separated by a comma</li>
+            <li>order - Order ascending (order="ASC") or descending (order="DESC")</li>
+            <li>taxonomy - Enter slug of custom taxonomy</li>
+            <li>start_label - Enter start title of timeline</li>
+            <li>end_label - Enter end title of timeline</li>
+            <li>orderby - Choose order condition
+            	<ul>
+                	<li>'date' - Order by publish date. </li>
+                    <li>'timeline_date' - Order by timeline date <strong style="font-size:16px;">(only work with Timeline datepicker, not work with custom date field). Only available in version 2.4</strong></li>
+                	<li>'ID' - Order by post id. Note the captialization.</li>
+                    <li>'author' - Order by author. </li>
+                    <li>'title' - Order by title. </li>
+                    <li>'name' - Order by post name (post slug). </li>
+                    <li>'name' - Order by post name (post slug). </li>
+                    <li>'modified' - Order by last modified date. </li>
+                    <li>'parent' - Order by post/page parent id. </li>
+                    <li>'rand' - Random order. </li>
+                    <li>'menu_order' - Order by Page Order. Used most often for Pages (Order field in the Edit Page Attributes box) and for Attachments (the integer fields in the Insert / Upload Media Gallery dialog), but could be used for any post type with distinct 'menu_order' values (they all default to 0). </li>
+                    <li>'meta_value' - Note that a 'meta_key=keyname' must also be present in the query. Note also that the sorting will be alphabetical which is fine for strings (i.e. words), but can be unexpected for numbers (e.g. 1, 3, 34, 4, 56, 6, etc, rather than 1, 3, 4, 6, 34, 56 as you might naturally expect). Use 'meta_value_num' instead for numeric values. </li>
+                    <li>'meta_value_num' - Order by numeric meta value (available with Version 2.8). Also note that a 'meta_key=keyname' must also be present in the query. This value allows for numerical sorting as noted above in 'meta_value'.</li>
+                    <li>'post__in' - Preserve post ID order given in the ids array</li>
+                    <li>'none' - No order</li>
+                </ul>
+                </li>
+                <li>meta_key - Enter custom field key, Show posts associated with a certain custom field</li>
+                <li>show_media - Choose "Yes" (show_media="1") or "No" (show_media="0") to show or hide Media instead of thumbnail</li>
+                <li>show_history - Choose "Yes" (show_history="1") or "No" (show_history="0") to show or hide history bar</li>
+                <li>filter_cat - Choose "Yes" (filter_cat="1") or "No" (filter_cat="0") to show or hide filter category bar</li>
+				<li>lightbox - Choose "Yes" (lightbox="1") or "No" (lightbox="0") to enable or disable image lightbox feature</li>
+                <li>infinite - Choose "Yes" (infinite="1") or "No" (infinite="0") to enable or disable infinite Scroll feature<span style="color:red"> Only available in version 3.0 ++</span></li>
+                <li>animations - Choose animations for each timeline
+                    <ul>
+                        <li>None</li>
+                        <li>bounce</li>
+                        <li>flash</li>
+                        <li>pulse</li>
+                        <li>rubberBand</li>
+                        <li>shake</li>
+                        <li>headShake</li>
+                        <li>swing</li>
+                        <li>tada</li>
+                        <li>wobble</li>
+                        <li>jello</li>
+                        <li>bounceIn</li>
+                        <li>bounceInDown</li>
+                        <li>bounceInLeft</li>
+                        <li>bounceInRight</li>
+                        <li>bounceInUp</li>
+                        <li>fadeIn</li>
+                        <li>fadeInDown</li>
+                        <li>fadeInDownBig</li>
+                        <li>fadeInLeft</li>
+                        <li>fadeInLeftBig</li>
+                        <li>fadeInRight</li>
+                        <li>fadeInRightBig</li>
+                        <li>fadeInUp</li>
+                        <li>fadeInUpBig</li>
+                        <li>flipInX</li>
+                        <li>flipInY</li>
+                        <li>lightSpeedIn</li>
+                        <li>rotateIn</li>
+                        <li>rotateInDownLeft</li>
+                        <li>rotateInDownRight</li>
+                        <li>rotateInUpLeft</li>
+                        <li>rotateInUpRight</li>
+                        <li>bounceInRight</li>
+                        <li>rollIn</li>
+                        <li>zoomIn</li>
+                        <li>zoomInDown</li>
+                        <li>zoomInLeft</li>
+                        <li>zoomInRight</li>
+                        <li>zoomInUp</li>
+                        <li>slideIn</li>
+                        <li>slideInDown</li>
+                        <li>slideInLeft</li>
+                        <li>slideInRight</li>
+                        <li>bounceInRight</li>
+                    </ul>
+                </li>
+                <li>class - Add a class name and refer to it in custom CSS</li>
+				<li>feature_label - Choose "Yes" (feature_label="1") or "No" (feature_label="0") to show or hide feature label
+					<p>Create feature label:<br><img src="assets/images/create-feature.png" alt="" style="max-width:100%"/></p>
+					<p>Show feature label:<br><img src="assets/images/show-feature.png" alt="" style="max-width:100%"/></p>
+				</li>
+            </li>
+        </ul>
+    </p>
+    <b style="color:red">To use Flat style, you just add parameter class="flat-style" </b><br>
+    <b style="color:red">To use Dark style, you just add parameter class="dark-style" </b>
+    <h5><b>Modern alignment center style</b></h5>
+    <textarea disabled>[wpex_timeline style="modern" alignment="center"]</textarea>
+    <img src="assets/images/timeline list.png" alt="" style="max-width:100%"/>
+    <h5><b>Classic alignment center style</b></h5>
+    <textarea disabled>[wpex_timeline style="classic" alignment="center"]</textarea>
+    <img src="assets/images/timeline-classic.png" alt="" style="max-width:100%"/>
+    
+    <h5><b>Clean alignment center style</b></h5>
+    <textarea disabled>[wpex_timeline style="clean" alignment="center"]</textarea>
+    <img src="assets/images/clean.png" alt="" style="max-width:100%"/>
+    
+    <h5><b>Simple alignment center style</b></h5>
+    <textarea disabled>[wpex_timeline style="simple" alignment="center"]</textarea>
+    <img src="assets/images/simple.png" alt="" style="max-width:100%"/>
+    <h5><b>Wide image alignment center style</b></h5>
+    <textarea disabled>[wpex_timeline style="wide_img" alignment="center"]</textarea>
+    <img src="assets/images/wide-image.png" alt="" style="max-width:100%"/>
+    
+    <h5><b>Background image alignment center style</b></h5>
+    <textarea disabled>[wpex_timeline style="wide_img" alignment="center"]</textarea>
+    <img src="assets/images/bg-plr.png" alt="" style="max-width:100%"/>
+    
+    <h5><b>Modern single column</b></h5>
+    <textarea disabled>[wpex_timeline style="modern" alignment="left"]</textarea>
+    <img src="assets/images/modern-left.png" alt="" style="max-width:100%"/>
+    <h5><b>classic single column</b></h5>
+    <textarea disabled>[wpex_timeline style="classic" alignment="left"]</textarea>
+    <img src="assets/images/flat-left.png" alt="" style="max-width:100%"/>
+    
+    <h5><b>Clean alignment left style</b></h5>
+    <textarea disabled>[wpex_timeline style="clean" alignment="left"]</textarea>
+    <img src="assets/images/single-clean.png" alt="" style="max-width:100%"/>
+        
+    <h5 id="shortcode-timeline-slider"><b>Timeline Slider</b></h5>
+    <p><i>Timeline Slider is a shortcode for displaying timeline on horizontal Slider.</i></p>
+    <textarea disabled>[wpex_timeline_slider style="" layout="" posttype="" count="" ids=""   cat=""  tag=""  order=""  orderby="" meta_key="" arrow_position="" taxonomy="" autoplay="" show_media="" class="" show_all="" toolbar_position=""]</textarea>
+    <p>
+    	<ul>
+        	<li>style - Select between Left side (style="left-side") or Full Width (style="full-width")</li>
+            <li>layout - Select between Horizontal (layout="horizontal") or Horizontal Steps (layout="hozsteps")</li>
+            <li>posttype - Select post types Ex: posttype="post" to show blog posts in timeline ( Defaults: wp-timeline)</li>
+        	<li>ids - List of IDs to query, separated by a comma</li>
+            <li>count - Total number of items to show. Default 9</li>
+            <li>cat - List of category ids (or slug), separated by a comma</li>
+            <li>tag - List of tag ids (or slug), separated by a comma</li>
+            <li>order - Order ascending (order="ASC") or descending (order="DESC")</li>
+            <li>taxonomy - Enter slug of custom taxonomy</li>
+            <li>orderby - Choose order condition
+            	<ul>
+                	<li>'date' - Order by date. </li>
+                	<li>'ID' - Order by post id. Note the captialization.</li>
+                    <li>'author' - Order by author. </li>
+                    <li>'title' - Order by title. </li>
+                    <li>'name' - Order by post name (post slug). </li>
+                    <li>'name' - Order by post name (post slug). </li>
+                    <li>'modified' - Order by last modified date. </li>
+                    <li>'parent' - Order by post/page parent id. </li>
+                    <li>'rand' - Random order. </li>
+                    <li>'menu_order' - Order by Page Order. Used most often for Pages (Order field in the Edit Page Attributes box) and for Attachments (the integer fields in the Insert / Upload Media Gallery dialog), but could be used for any post type with distinct 'menu_order' values (they all default to 0). </li>
+                    <li>'meta_value' - Note that a 'meta_key=keyname' must also be present in the query. Note also that the sorting will be alphabetical which is fine for strings (i.e. words), but can be unexpected for numbers (e.g. 1, 3, 34, 4, 56, 6, etc, rather than 1, 3, 4, 6, 34, 56 as you might naturally expect). Use 'meta_value_num' instead for numeric values. </li>
+                    <li>'meta_value_num' - Order by numeric meta value (available with Version 2.8). Also note that a 'meta_key=keyname' must also be present in the query. This value allows for numerical sorting as noted above in 'meta_value'.</li>
+                    <li>'post__in' - Preserve post ID order given in the ids array</li>
+                    <li>'none' - No order</li>
+                </ul>
+                <li>meta_key - Enter custom field key, Show posts associated with a certain custom field</li>
+                <li>arrow_position - Select position of arrow (top or center)</li>
+                <li>show_media - 1/0 Choose "Yes" (show_media="1") or "No" (show_media="0") to show or hide Media instead of thumbnail</li>
+                <li>full_content - 1/0 Choose "Yes" (full_content="1") or "No" (full_content="0") to show full content instead of excerpt</li>
+                <li>hide_thumb - 1/0 Choose "Yes" (hide_thumb="1") or "No" (hide_thumb="0") to show or hide thumbnail</li>
+                <li>show_all - 1/0 (show_all="1") Show all items on timeline bar</li>
+                <li>toolbar_position - top (toolbar_position="top")/bottom (toolbar_position="bottom"), Choose Timeline bar position</li>
+                <li>autoplay - 1/0 Choose "Yes" (autoplay="1") to auto next timeline</li>
+                <li>strart_on - Slide to start on, enter number, default strart_on="0"</li>
+                <li>class - Add a class name and refer to it in custom CSS</li>
+            </li>
+        </ul>
+    </p>
+    <h5><b>Horizontal Full width</b></h5>
+    <textarea disabled>[wpex_timeline_slider style="full-width"]</textarea>
+    <img src="assets/images/slider-full.png" alt="" style="max-width:100%"/>
+    <hr>
+    <p><b>Dark style</b></p>
+    <img src="assets/images/hoz-dark.png" alt="" style="max-width:100%"/>
+    <h5><b>Horizontal left</b></h5>
+    <textarea disabled>[wpex_timeline_slider style="left-side"]</textarea>
+    <img src="assets/images/slider-left.png" alt="" style="max-width:100%"/>
+    
+    <h5><b>Horizontal Steps layout</b></h5>
+    <textarea disabled>[wpex_timeline_slider layout="hozsteps"]</textarea>
+    <img src="assets/images/steps-style.png" alt="" style="max-width:100%"/>
+    <img src="assets/images/steps-style2.png" alt="" style="max-width:100%"/>
+    <hr>
+    <p><b>Dark style</b></p>
+    <img src="assets/images/steps-dark.png" alt="" style="max-width:100%"/>
+    <img src="assets/images/steps-dark2.png" alt="" style="max-width:100%"/>
+    <hr>
+    <b style="color:red">To use Dark style, you just add parameter class="dark-style" </b>
+    
+    
+    <h5 id="shortcode-timeline-multi"><b>Timeline Horizontal multi items</b></h5>
+    <p><i>Timeline Horizontal multi items  is a shortcode for displaying multi items timeline on slider.</i></p>
+    <textarea disabled>[timeline_horizontal_multi style="" posttype="" count="" slidesshow="" ids=""   cat=""  tag=""  order=""  orderby="" meta_key="" taxonomy="" autoplay="" show_media="" show_label="" full_content="" hide_thumb="" class="" show_label="" autoplayspeed="" strart_on="" number_excerpt=""]</textarea>
+    <p>
+    	<ul>
+        	<li>style - Select between style 1 (style="1") or style 2 (style="2") or style 3 (style="3") or style 4 (style="4")</li>
+            <li>posttype - Select post types Ex: posttype="post" to show blog posts in timeline ( Defaults: wp-timeline)</li>
+        	<li>ids - List of IDs to query, separated by a comma</li>
+            <li>count - Total number of items to show. Default 6</li>
+            <li>slidesshow - Number item visible. Default 4</li>
+            <li>cat - List of category ids (or slug), separated by a comma</li>
+            <li>tag - List of tag ids (or slug), separated by a comma</li>
+            <li>order - Order ascending (order="ASC") or descending (order="DESC")</li>
+            <li>taxonomy - Enter slug of custom taxonomy</li>
+            <li>orderby - Choose order condition
+            	<ul>
+                	<li>'date' - Order by date. </li>
+                	<li>'ID' - Order by post id. Note the captialization.</li>
+                    <li>'author' - Order by author. </li>
+                    <li>'title' - Order by title. </li>
+                    <li>'name' - Order by post name (post slug). </li>
+                    <li>'name' - Order by post name (post slug). </li>
+                    <li>'modified' - Order by last modified date. </li>
+                    <li>'parent' - Order by post/page parent id. </li>
+                    <li>'rand' - Random order. </li>
+                    <li>'menu_order' - Order by Page Order. Used most often for Pages (Order field in the Edit Page Attributes box) and for Attachments (the integer fields in the Insert / Upload Media Gallery dialog), but could be used for any post type with distinct 'menu_order' values (they all default to 0). </li>
+                    <li>'meta_value' - Note that a 'meta_key=keyname' must also be present in the query. Note also that the sorting will be alphabetical which is fine for strings (i.e. words), but can be unexpected for numbers (e.g. 1, 3, 34, 4, 56, 6, etc, rather than 1, 3, 4, 6, 34, 56 as you might naturally expect). Use 'meta_value_num' instead for numeric values. </li>
+                    <li>'meta_value_num' - Order by numeric meta value (available with Version 2.8). Also note that a 'meta_key=keyname' must also be present in the query. This value allows for numerical sorting as noted above in 'meta_value'.</li>
+                    <li>'post__in' - Preserve post ID order given in the ids array</li>
+                    <li>'none' - No order</li>
+                </ul>
+                <li>meta_key - Enter custom field key, Show posts associated with a certain custom field</li>
+                <li>number_excerpt - Enter number of exverpt to show, example number_excerpt="10"</li>
+                <li>strart_on - Slide to start on, enter number, default strart_on="0"</li>
+                <li>show_media - 1/0 Choose "Yes" (show_media="1") or "No" (show_media="0") to show or hide Media instead of thumbnail</li>
+                <li>full_content - 1/0 Choose "Yes" (full_content="1") or "No" (full_content="0") to show full content instead of excerpt</li>
+                <li>hide_thumb - 1/0 Choose "Yes" (hide_thumb="1") or "No" (hide_thumb="0") to show or hide thumbnail</li>
+                <li>autoplay - 1/0 Choose "Yes" (autoplay="1") to auto next timeline</li>
+                <li>autoplayspeed - Autoplay Speed in milliseconds. Default:3000</li>
+                <li>class - Add a class name and refer to it in custom CSS</li>
+            </li>
+        </ul>
+    </p>
+    <h5><b>Style 1</b></h5>
+    <textarea disabled>[wpex_timeline style="1"]</textarea>
+    <img src="assets/images/style-1.png" alt="" style="max-width:100%"/>
+    <h5><b>Style 2</b></h5>
+    <textarea disabled>[wpex_timeline style="2"]</textarea>
+    <img src="assets/images/style-2.png" alt="" style="max-width:100%"/>
+    <h5><b>Style 3</b></h5>
+    <textarea disabled>[wpex_timeline style="3"]</textarea>
+    <img src="assets/images/style-3.png" alt="" style="max-width:100%"/>
+    <h5><b>Style 4</b></h5>
+    <textarea disabled>[wpex_timeline style="4"]</textarea>
+    <img src="assets/images/style-4.png" alt="" style="max-width:100%"/>
+    <hr>
+    
+</section>
+<section id="usage">
+	<div class="page-header"><h3>Usage</h3><hr class="notop"></div>
+    <p>Simple: go to any place which accepts shortcode, for example Post or Page. Click on the "Timeline button" in the editor or you can use visual composer to config.</p>
+    <p><b>Classic editor button</b></p>
+    <img src="assets/images/classic-bt.png" alt="" style="max-width:100%"/>
+    <p><b>You also can use Vissual composer to config</b></p>
+    <img src="assets/images/vc-bt.png" alt="" style="max-width:100%"/>
+    <hr>
+</section>
+<section id="config">
+	<div class="page-header"><h3>Configuration</h3><hr class="notop"></div>
+    <p>To go to Timeline Settings page, click on "Timeline" menu item.</p>
+    <p><b>General settings</b></p>
+    <img src="assets/images/general.png" alt="" style="max-width:100%"/>
+    <p><b>Custom css</b></p>
+    <p>Enter your custom css here</p>
+    <img src="assets/images/customcss.png" alt="" style="max-width:100%"/>
+    <hr>
+</section>
+
+<section id="translation">
+	<div class="page-header"><h3>Translation</h3><hr class="notop"></div>
+    <p><strong>The plugin is translation ready, please follow the steps bellow:</strong></p>
+    <p>To translate front end, you can go to Timeline Settings page > Front end static text</p>
+    <img src="assets/images/frontend text.png" alt="" style="max-width:100%"/>
+    <p>To translate all static text (front end & back end) you can follow this guide</p>
+    <ul>
+        <li>1. Download and install Poedit</li>
+        <li>2. Open POEdit and load "/wp-timeline/language/wp-timeline.po"</li>
+        <li>3. Translate the text and save the file.</li>
+        <li>4. A file named language.mo is created. Rename it with Code Name of your language. For example, wp-timeline-de_DE.mo for German - Deutsche.<br>
+        All languages codes can be found here:<br>
+        http://www.gnu.org/software/gettext/manual/gettext.html#Language-Codes<br>
+        and all countries codes can be found here:<br>
+        http://www.gnu.org/software/gettext/manual/gettext.html#Country-Codes</li>
+        <li>5. (For WordPress 3.x)Open [{wordpress root}/wp_config.php] and find this line define('WPLANG', '');. Change it with your language code, for example define('WPLANG', 'de_DE');</li>
+        <li>5. (For WordPress 4.x) Go to Settings > General and change your site language</li>
+    </ul>
+    <hr>
+</section>
+<section id="sources_and_credits">
+	<div class="page-header"><h3>Sources and Credits</h3><hr class="notop"></div>
+<p>I&#39;ve used the following images, icons or other files as listed.</p>
+<ul>
+    <li><a href="https://pixabay.com/" target="_blank">Free Photos</a> - by Pixabay</li>
+    <li><a href="http://fontawesome.io/icons/" target="_blank">Font Awesome</a> - MIT License</li>
+    <li><a href="https://github.com/humanmade/Custom-Meta-Boxes" target="_blank">Custom Meta Boxes</a> - GPL V2 License</li>
+</ul>
+<hr />
+<p>Once again, thank you so much for purchasing this plugin. As I said at the beginning, I'd be glad to help you if you have any questions relating to this plugin. No guarantees, but I'll do my best to assist. If you have a more general question relating to the plugin on Codecanyon, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p>
+<p><strong>ExThemes</strong></p>
+</section>
+
+	</div>
+</body>
+</html>

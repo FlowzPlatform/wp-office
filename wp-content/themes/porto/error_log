@@ -1,0 +1,60 @@
+[23-Apr-2018 02:52:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function porto_meta_default_layout() in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php on line 5
+[23-Apr-2018 02:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function porto_meta_default_layout() in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php on line 5
+[23-Apr-2018 03:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function porto_meta_default_layout() in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php on line 5
+[23-Apr-2018 04:03:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function porto_meta_default_layout() in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php on line 5
+[06-May-2018 20:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[06-May-2018 23:19:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[07-May-2018 00:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[07-May-2018 01:46:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[07-May-2018 11:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[07-May-2018 13:22:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[07-May-2018 13:45:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[07-May-2018 14:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/404.php on line 1
+[20-May-2018 02:59:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function porto_meta_default_layout() in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/footer.php on line 5
+[20-May-2018 02:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/o5y7r6c0/public_html/wp-content/themes/porto/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/header.php on line 2
+[20-May-2018 02:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/o5y7r6c0/public_html/wp-content/themes/porto/index.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/o5y7r6c0/public_html/wp-content/themes/porto/index.php on line 1

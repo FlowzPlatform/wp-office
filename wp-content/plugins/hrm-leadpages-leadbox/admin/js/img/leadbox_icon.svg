@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path id="path-1" d="M0,0.987 L29.932,0.987 L29.932,31 L0,31 L0,0.987 Z"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Boxes_Listings@2x" sketch:type="MSArtboardGroup" transform="translate(-179.000000, -243.000000)">
+            <g id="Group-+-Clip-16-+-Page-1-+-Page-1" sketch:type="MSLayerGroup" transform="translate(163.000000, 216.000000)">
+                <g id="Page-1" transform="translate(16.000000, 27.000000)">
+                    <path d="M27.1655,29 L2.7665,29 C2.3435,29 1.9995,28.657 1.9995,28.233 L1.9995,3.753 C1.9995,3.33 2.3435,2.987 2.7665,2.987 L27.1655,2.987 C27.5885,2.987 27.9325,3.33 27.9325,3.753 L27.9325,28.233 C27.9325,28.657 27.5885,29 27.1655,29 L27.1655,29 Z" id="Stroke-1" stroke="#FFFFFF" stroke-width="4" sketch:type="MSShapeGroup"></path>
+                    <path d="M27.1655,29 L2.7665,29 C2.3435,29 1.9995,28.657 1.9995,28.233 L1.9995,3.753 C1.9995,3.33 2.3435,2.987 2.7665,2.987 L27.1655,2.987 C27.5885,2.987 27.9325,3.33 27.9325,3.753 L27.9325,28.233 C27.9325,28.657 27.5885,29 27.1655,29" id="Fill-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+                    <path d="M27.1655,29 L2.7665,29 C2.3435,29 1.9995,28.657 1.9995,28.233 L1.9995,3.753 C1.9995,3.33 2.3435,2.987 2.7665,2.987 L27.1655,2.987 C27.5885,2.987 27.9325,3.33 27.9325,3.753 L27.9325,28.233 C27.9325,28.657 27.5885,29 27.1655,29 L27.1655,29 Z" id="Stroke-5" stroke="#B1BACC" sketch:type="MSShapeGroup"></path>
+                    <path d="M25.4842,5.4856 C25.4842,5.8686 25.1732,6.1796 24.7902,6.1796 C24.4072,6.1796 24.0972,5.8686 24.0972,5.4856 C24.0972,5.1026 24.4072,4.7916 24.7902,4.7916 C25.1732,4.7916 25.4842,5.1026 25.4842,5.4856" id="Fill-7" fill="#B1BACC" sketch:type="MSShapeGroup"></path>
+                    <mask id="mask-2" sketch:name="Clip 10" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-10"></g>
+                    <path d="M23.79,18.451 L5.853,18.451 L5.853,15.506 L23.79,15.506 L23.79,18.451 Z" id="Fill-9" fill="#E6F0FF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M23.79,18.451 L5.853,18.451 L5.853,15.506 L23.79,15.506 L23.79,18.451 Z" id="Stroke-11" stroke="#0069FF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <g id="Group-14" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                        <g transform="translate(9.000000, 11.000000)">
+                            <path d="M11.5446,0.9523 L0.0986,0.9523" id="Fill-12" stroke="none" fill="#EBF8FE" fill-rule="evenodd"></path>
+                            <path d="M11.5446,0.9523 L0.0986,0.9523" id="Stroke-13" stroke="#0069FF" stroke-width="1" fill="none"></path>
+                        </g>
+                    </g>
+                    <g id="Group-17" mask="url(#mask-2)" sketch:type="MSShapeGroup">
+                        <g transform="translate(6.000000, 8.000000)">
+                            <path d="M16.8877,0.399 L0.7557,0.399" id="Fill-15" stroke="none" fill="#EBF8FE" fill-rule="evenodd"></path>
+                            <path d="M16.8877,0.399 L0.7557,0.399" id="Stroke-16" stroke="#0069FF" stroke-width="1" fill="none"></path>
+                        </g>
+                    </g>
+                    <path d="M20.0746,24.949 L9.5686,24.949 C8.7566,24.949 8.0986,24.291 8.0986,23.479 L8.0986,23.474 C8.0986,22.662 8.7566,22.004 9.5686,22.004 L20.0746,22.004 C20.8866,22.004 21.5446,22.662 21.5446,23.474 L21.5446,23.479 C21.5446,24.291 20.8866,24.949 20.0746,24.949" id="Fill-18" fill="#66A5FF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    <path d="M20.0746,24.949 L9.5686,24.949 C8.7566,24.949 8.0986,24.291 8.0986,23.479 L8.0986,23.474 C8.0986,22.662 8.7566,22.004 9.5686,22.004 L20.0746,22.004 C20.8866,22.004 21.5446,22.662 21.5446,23.474 L21.5446,23.479 C21.5446,24.291 20.8866,24.949 20.0746,24.949 L20.0746,24.949 Z" id="Stroke-19" stroke="#0069FF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
