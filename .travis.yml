@@ -9,6 +9,7 @@ services:
 branches:
   only:
   - master
+  - develop
 
 jobs:
   include:
@@ -16,10 +17,16 @@ jobs:
       script:
       - 'if [ ${TRAVIS_BRANCH} = "master" ]; then
             docker login -u="$DOCKER_USERNAME_OBDEV" -p="$DOCKER_PASSWORD_OBDEV";
-            docker build -t obdev/flz-wdp-v6-demo:new .;
+            docker build -t $DOCKER_USERNAME_OBDEV/flz-wdp-v6-demo:master .;
             docker images;
-            docker push $DOCKER_USERNAME_OBDEV/flz-wdp-v6-demo:new;
+            docker push $DOCKER_USERNAME_OBDEV/flz-wdp-v6-demo:master;
+        elif [ ${TRAVIS_BRANCH} = "develop" ]; then
+            docker login -u="$DOCKER_USERNAME_OBDEV" -p="$DOCKER_PASSWORD_OBDEV";
+            docker build -t $DOCKER_USERNAME_OBDEV/flz-wdp-v6-demo:dev .;
+            docker images;
+            docker push $DOCKER_USERNAME_OBDEV/flz-wdp-v6-demo:dev;
         fi'
+
     - stage: Upgrade Rancher Service
       script:
       - bash ./upgrade.sh
