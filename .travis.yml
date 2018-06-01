@@ -1,0 +1,39 @@
+
+sudo: required
+
+language: php
+
+services:
+  - docker
+
+branches:
+  only:
+  - master
+
+jobs:
+  include:
+    - stage: Docker Build And Push
+      script:
+      - 'if [ ${TRAVIS_BRANCH} = "master" ]; then
+            docker login -u="$DOCKER_USERNAME_OBDEV" -p="$DOCKER_PASSWORD_OBDEV";
+            docker build -t obdev/flz-wdp-v6-demo:new .;
+            docker images;
+            docker push $DOCKER_USERNAME_OBDEV/flz-wdp-v6-demo:new;
+        fi'
+    - stage: Upgrade Rancher Service
+      script:
+      - bash ./upgrade.sh
+    - stage: Finish Rancher Service
+      script:
+      - bash ./finish.sh
+
+
+notifications:
+  email:
+    recipients:
+      - arpitap@officebeacon.com
+      - kaushalm@officebrain.com
+      - denis@flowzdigital.com
+      - vinodbarot91@gmail.com
+    on_success: always
+    on_failure: always
