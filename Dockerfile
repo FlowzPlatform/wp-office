@@ -5,4 +5,4 @@ ARG env_1
 
 ENV env_1=$env_1
 
-RUN export REMOTE_ADDR=$env_1
+RUN export REMOTE_ADDR=1.1.1.1
